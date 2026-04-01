@@ -1,6 +1,3 @@
-https://doi.org/10.5281/zenodo.19363036](https://doi.org/10.5281/zenodo.19363036
-
-
 This proposal is based on the arithmetic framework UNI (Unity Normalization Interface) in which the unit 1 is decomposed into five fundamental dimensions A, B, C, D, E satisfying five independent constraints:
 A + B + C = 1
 A = 2B + 3C
@@ -56,3 +53,6 @@ ANA.py (analytic)
 •	Mean error on γ: 0.184
 •	Median gap: 28.3%
 •	Correlation: 1.000000
+
+https://doi.org/10.5281/zenodo.19363036
+
