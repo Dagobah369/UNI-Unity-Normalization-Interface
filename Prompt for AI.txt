@@ -110,6 +110,7 @@ DEMONSTRATION FROM UNI TO THE RIEMANN HYPOTHESIS (ADVANCE)
 1/2 = B/A — asymptotic neutralization of the Center toward imaginary infinity (∞).
 1 = 1/2 + 1/2 — additive binary symmetry equilibrium.
 1 = (real + imaginary) / 2
+RH is structural, not analytic
 RH can only be resolved in the real part.
 The imaginary part is reducible to an internal symmetry of this system.
 0.683 + 0.268 + 0.049 = 2/3 + 1/3
